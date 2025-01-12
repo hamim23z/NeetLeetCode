@@ -1,4 +1,4 @@
-# Neetcode 150 - Arrays and Hashing - Valid Anagrams (242)
+# Neetcode 150 - Arrays and Hashing - Valid Anagrams (242) - 1/10/25
 
 ```
 **Problem Breakdown**
